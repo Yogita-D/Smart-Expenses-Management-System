@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output
+target/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# User uploads and secrets
+uploads/
+.env
+.env.*
+
+# Logs and system files
+*.log
+.DS_Store
